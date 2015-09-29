@@ -28,8 +28,8 @@
    Has to be updated by Sonali
 
 ** Amrita Structure
-   - The structure these labs are in collaborative framework, We can
-     identify them using lab URL it looks like the following
+   - The structure these labs are reffered to collaborative framework, We can
+     identify labs using URL.
    - Lab URL should contain the fields like sub, brch, sim and cnt.
    For example, the URL of the lab
 
@@ -52,8 +52,8 @@
    - There are 5 labs which are need to be converted to UI1.0 either
      using scripts or manually as scripts are not functioning.
 ** Unstructured Labs
-   - The structure of these labs is neither in =UI1.0,UI3.0= nor in =Amrita= fomat.
-   - Instead lab developers followed their own structure to build the lab.
+   - The structure of these labs is neither in =UI1.0, UI3.0= nor in =Amrita= fomat.
+   - Instead lab developers following their own structure to build the lab.
    - We are converting these unstructured labs into UI1.0 manually.
    - So far we have converted 2 labs into =UI1.0= remaining labs to be converted 8.
    
